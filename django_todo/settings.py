@@ -27,7 +27,7 @@ SECRET_KEY = '@+#q7skh)5vz%-k*v_e%5^e*=1!%uu1h3z#4$@2%l=@x7725)4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-fullstack-sample-app.herokuapp.com']
 
 
 # Application definition
